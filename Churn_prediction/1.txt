@@ -1,1 +1,4 @@
 We use Kaggle  -Telco-Customer-Churn- Dataset to predict the churn
+
+
+In this project take the raw data from the kaggle and clean it and change the object datatype to the float using one hot encoding and train and validate the model using KERAS
